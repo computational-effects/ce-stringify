@@ -1,0 +1,19 @@
+{
+  "name": "ce-stringify",
+  "version": "1.0.0",
+  "description": "Computation effect - stringify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "computational effect",
+    "stringify",
+    "toString"
+  ],
+  "author": "Hardy Jones <jones3.hardy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pbp": "^1.0.0"
+  }
+}
