@@ -1,6 +1,6 @@
 'use strict';
 
-var pbp = require('pbp');
+var pbp = require('@ce/pbp');
 
 var Stringify = Object.create(null, {
   toString: pbp.enumerableValue(function() {
